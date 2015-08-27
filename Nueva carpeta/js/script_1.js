@@ -88,18 +88,9 @@ var color1 = null;
 
 
 			}while(!completado);
-			 	
-			 	
-
-			 
-
-
 
 		}
-		
-		
-		
-		
+	
 		function comprobar2(e){
 	
 			if (color1 == null) {
